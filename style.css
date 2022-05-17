@@ -1,0 +1,146 @@
+@font-face {
+	font-family: "Open Sans";
+	font-style: normal;
+	font-weight: 700;
+	font-display: swap;
+	src: local("Open Sans"),
+		 local ("Open-Sans"),
+		 url("fonts/OpenSans-Bold.woff2") format("woff2"),
+		 url("fonts/OpenSans-Bold.woff") format("woff");
+}
+
+@font-face {
+	font-family: "Open Sans";
+	font-style: normal;
+	font-weight: 300;
+	font-display: swap;
+	src: local("Open Sans"),
+		 local ("Open-Sans"),
+		 url("fonts/OpenSans-Light.woff2") format("woff2"),
+	     url("fonts/OpenSans-Light.woff") format("woff");
+}
+
+@font-face {
+	font-family: "Open Sans";
+	font-style: normal;
+	font-weight: 400;
+	font-display: swap;
+	src: local("Open Sans"),
+		 local ("Open-Sans"),
+		 url("fonts/OpenSans-Regular.woff2") format("woff2"),
+		 url("fonts/OpenSans-Regular.woff") format("woff");
+}
+
+.body { 
+	font-family: "Open Sans, sans-serif, Arial";
+	font-style: normal;
+	font-size: 18px;
+	font-weight: 700;
+	line-height: 
+	color: #283645;
+
+}
+
+.main-nav__link {
+	font-weight: 700;
+	font-size: 18px;
+	
+	color: #FFFFFF;
+	text-transform: uppercase;
+}
+
+.promo__slogan {
+	font-weight: 300;
+	font-size: 24px;
+	
+	color: #FFFFFF;
+}
+
+.promo__link {
+	font-weight: 700;
+	font-size: 18px;
+	
+	color: #FFFFFF;
+}
+
+.promo__text {
+	font-weight: 300;
+	font-size: 14px;
+
+	color: #FFFFFF;
+}
+
+.commercial__title {
+	font-weight: 300;
+	font-size: 24px;
+	
+	color: #283645;
+}
+
+.advantages__title {
+	font-weight: 700;
+	font-size: 18px;
+	
+	color: #000000;
+}
+
+.advantages__desc {
+	font-weight: 400;
+	font-size: 14px;
+	
+	color: #283645;
+}
+
+.feedback__author {
+	font-weight: 700;
+	font-size: 18px;
+	
+	color: #000000;
+}
+
+.feedback__text {
+	font-weight: 400;
+	font-size: 14px;
+	
+	color: #283645;
+}
+
+.feedback__description {
+	font-weight: 400;
+	font-size: 14px;
+	
+	color: #283645;
+
+}
+
+.contacts__slogan {
+	font-weight: 300;
+	font-size: 24px;
+	
+	color: #283645;
+}
+
+.contacts__title {
+	font-weight: 700;
+	font-size: 18px;
+	line-height: 25px;
+	
+	color: #283645;
+}
+
+.contacts__desc 
+.a 
+.adress {
+	font-weight: 300;
+	font-size: 24px;
+	text-decoration: none;
+
+	color: #D22856;
+}
+
+.main-footer__author {
+	font-weight: 400;
+	font-size: 14px;
+	
+	color: #283645;
+}
