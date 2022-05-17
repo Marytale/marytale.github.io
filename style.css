@@ -1,0 +1,151 @@
+@font-face {
+	font-family: 'Open Sans';
+	src: url("fonts/OpenSans-Bold.woff2") format("truetype"),
+		 url("fonts/OpenSans-Bold.woff") format("truetype");
+	font-style: normal;
+	font-weight: 700;
+}
+
+@font-face {
+	font-family: 'Open Sans';
+	src: url("fonts/OpenSans-Light.woff2") format("truetype"),
+	     url("fonts/OpenSans-Light.woff") format("truetype");
+	font-style: normal;
+	font-weight: 300;
+}
+
+@font-face {
+	font-family: 'Open Sans';
+	src: url("fonts/OpenSans-Regular.woff2") format("truetype"),
+		 url("fonts/OpenSans-Regular.woff") format("truetype");
+	font-style: normal;
+	font-weight: 400;
+}
+
+.main-nav__link {
+	font-family: 'Open Sans';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 18px;
+	
+	color: #FFFFFF;
+	text-transform: uppercase;
+}
+
+.promo__slogan {
+	font-family: 'Open Sans';
+	font-style: normal;
+	font-weight: 300;
+	font-size: 24px;
+	
+	color: #FFFFFF;
+}
+
+.promo__link {
+	font-family: 'Open Sans';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 18px;
+	
+	color: #FFFFFF;
+}
+
+.promo__text {
+	font-family: 'Open Sans';
+	font-style: normal;
+	font-weight: 300;
+	font-size: 14px;
+
+	color: #FFFFFF;
+}
+
+.commercial__title {
+	font-family: 'Open Sans';
+	font-style: normal;
+	font-weight: 300;
+	font-size: 24px;
+	
+	color: #283645;
+}
+
+.advantages__title {
+	font-family: 'Open Sans';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 18px;
+	
+	color: #000000;
+}
+
+.advantages__subtitle {
+	font-family: 'Open Sans';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 14px;
+	
+	color: #283645;
+}
+
+.feedback__author {
+	font-family: 'Open Sans';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 18px;
+	
+	color: #000000;
+}
+
+.feedback__text {
+	font-family: 'Open Sans';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 14px;
+	
+	color: #283645;
+}
+
+.feedback__description {
+	font-family: 'Open Sans';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 14px;
+	
+	color: #283645;
+
+}
+
+.contacts__slogan {
+	font-family: 'Open Sans';
+	font-style: normal;
+	font-weight: 300;
+	font-size: 24px;
+	
+	color: #283645;
+}
+
+.contact__title {
+	font-family: 'Open Sans';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 18px;
+	line-height: 25px;
+	
+	color: #283645;
+}
+.contacts a, address {
+	font-family: 'Open Sans';
+	font-style: normal;
+	font-weight: 300;
+	font-size: 24px;
+	
+	color: #D22856;
+}
+
+.main-footer__author {
+	font-family: 'Open Sans';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 14px;
+	
+	color: #283645;
+}
